@@ -173,6 +173,8 @@ I'm curating a list of all wordle like games. Feel free to play and contribute!!
 
 [Wordle](https://www.nytimes.com/games/wordle/index.html) - The OG
 
+[Dordle](https://pipspuzzle.com/dordle) - Wordle and downword variant unlimited play
+
 [Wordle-peaks](https://vegeta897.github.io/wordle-peaks/) - Wordle but after each guess, the tiles show whether your letters occur earlier or later in the alphabet compared to the correct letters. 
 
 [Worldle](https://worldle.teuteuf.fr/) - The game will show you an outline of a country, along with some basic facts about it, and challenge you to name which one it is.
