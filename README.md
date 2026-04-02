@@ -169,6 +169,8 @@ I'm curating a list of all wordle like games. Feel free to play and contribute!!
 
 [Wordawazzle](https://wordawazzle.com.au/) - Wordle with Australian Slang
 
+[Worddelo](https://www.worddelo.com) - Free unlimited Wordle with points, weekly leagues, and zero daily limits.
+
 [Wordiply](https://www.wordiply.com/) - You have five goes to get the longest word that includes the starter word.
 
 [Wordle](https://www.nytimes.com/games/wordle/index.html) - The OG
