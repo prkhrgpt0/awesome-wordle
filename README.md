@@ -3,6 +3,8 @@
 # awesome-wordle
 I'm curating a list of all wordle like games. Feel free to play and contribute!!
 
+[Worddelo](https://www.worddelo.com) - Free unlimited Wordle with points system and weekly leagues. No account required.
+
 [Addle](https://alex.strinka.net/programs/addle/) - Wordle with Addition equations.
 
 [Actorle](https://actorle.com/) - Wordle but you have to guess Actors
