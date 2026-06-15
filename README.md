@@ -180,3 +180,5 @@ I'm curating a list of all wordle like games. Feel free to play and contribute!!
 [Wor-Wordle-dle](https://wor-wordle-dle.web.app/#/) - Multi Layered Wordle.
 
 [Yeardle](https://histordle.com/yeardle/) - Guess the year some historic events happened
+[Cluword](https://oneapplefall.com/games/cluword/) - A free daily word puzzle that combines Wordle-style guessing with cryptic crossword-style clues.
+
