@@ -7,11 +7,13 @@ I'm curating a list of all wordle like games. Feel free to play and contribute!!
 
 [Actorle](https://actorle.com/) - Wordle but you have to guess Actors
 
-[Alphabeticle](https://alphabeticle.xyz/) - Wordle but your number of guesses is limited by whether your letters occur earlier or later in the alphabet compared to the correct letters. 
+[Alphabeticle](https://alphabeticle.xyz/) - Wordle-style puzzle where your guesses are guided by whether letters come earlier or later in the alphabet than the target word.
 
-[Airportle](https://airportle.scottscheapflights.com/) - Wordle with flight codes.
+[Airportle](https://airportle.scottscheapflights.com/) - A travel-themed word game that challenges you to identify airport codes.
 
-[Angle](https://angle.wtf/) - Estimate angle in degrees
+[Angle](https://angle.wtf/) - Test your visual judgment by estimating angles as accurately as possible.
+
+[Octordle](https://playoctordle.com/) - Take on the ultimate word challenge by solving eight Wordle-style puzzles simultaneously using a shared set of guesses.
 
 [AntiWordle](https://www.antiwordle.com/) - Wordle but system throws difficulties on you.
 
