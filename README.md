@@ -139,6 +139,8 @@ I'm curating a list of all wordle like games. Feel free to play and contribute!!
 
 [Semantle](https://semantle.com/) - Wordle but you're given temperature of closeness to the chosen word.
 
+[Spectra](https://atlas-asittley.github.io/spectra/) - Wordle but you crack a hidden RGB color (each channel 0-9) using exact/close/far feedback per channel.
+
 [Squareword](https://squareword.org/) - Wordle but words form both horizontally and vertically.
 
 [Squardle](https://fubargames.se/squardle/) - Wordle on a 5X5 grid.
@@ -158,6 +160,8 @@ I'm curating a list of all wordle like games. Feel free to play and contribute!!
 [Turdle](https://turdle.xyz/) -  a Wordle clone about guessing the correct sequence of animated frames to make a turtle jump!
 
 [Tusmo](https://www.tusmo.xyz/) - idk i dont speak bonjour.
+
+[Vaultle](https://atlas-asittley.github.io/vaultle/) - Wordle but you crack a hidden 4-digit code using bulls & cows clues.
 
 [Waffle](https://wafflegame.net/) - Wordle but you have to create words horizontally and vertically.
 
