@@ -143,6 +143,8 @@ I'm curating a list of all wordle like games. Feel free to play and contribute!!
 
 [Squardle](https://fubargames.se/squardle/) - Wordle on a 5X5 grid.
 
+[Stretchdle](https://seekdle.com/stretchdle/) - Drag a stretched photo back to its true aspect ratio.
+
 [Subwaydle](https://www.subwaydle.com/) - Wordle with Subway trip.
 
 [Survivle](https://lazyguyy.github.io/survivle/) - Wordle on hard mode. All information gather must be used.
