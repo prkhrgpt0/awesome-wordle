@@ -7,6 +7,10 @@ I'm curating a list of all wordle like games. Feel free to play and contribute!!
 
 [Actorle](https://actorle.com/) - Wordle but you have to guess Actors
 
+[Airline-dle](https://airlinedle.mtclab.net/) - Guess the airline, active or long-gone (Pan Am, TWA), from country, alliance and callsign.
+
+[Airport-dle](https://airportdle.mtclab.net/) - Guess the airport from its runway-layout silhouette plus country and elevation clues.
+
 [Alphabeticle](https://alphabeticle.xyz/) - Wordle but your number of guesses is limited by whether your letters occur earlier or later in the alphabet compared to the correct letters. 
 
 [Airportle](https://airportle.scottscheapflights.com/) - Wordle with flight codes.
@@ -91,7 +95,11 @@ I'm curating a list of all wordle like games. Feel free to play and contribute!!
 
 [Lexli](https://lexli.gr/) - Wordle in Greek
 
+[Lighthousedle](https://lighthousedle.mtclab.net/) - Guess the lighthouse from country, height, light range and material.
+
 [Mathler](https://www.mathler.com/) - Wordle but you have to guess Math equations.
+
+[METAR Daily](https://metar.mtclab.net/) - Decode a real aviation weather report - five daily questions on wind, ceiling and flight rules.
 
 [Moviedle](https://moviedle.xyz/) -Wordle but you have to guess Movies
 
@@ -110,6 +118,8 @@ I'm curating a list of all wordle like games. Feel free to play and contribute!!
 [Pedantle](https://cemantle.certitudes.org/pedantle) - Wordle but you have to guess the complete wikipedia article.
 
 [Pimantle](https://semantle.pimanrul.es/) - Semantle/Cemantle but with a 2D map of word closeness
+
+[Plane-dle](https://planedle.mtclab.net/) - Guess the aircraft type from maker, first-flight decade, number built and role.
 
 [Poetle](https://poeltl.dunk.town/) - Wordle but you have to guess NBA players.
 
@@ -139,6 +149,8 @@ I'm curating a list of all wordle like games. Feel free to play and contribute!!
 
 [Semantle](https://semantle.com/) - Wordle but you're given temperature of closeness to the chosen word.
 
+[Shipdle](https://shipdle.mtclab.net/) - Guess the ship from type, flag, tonnage and shipyard. Civilian and warship modes.
+
 [Squareword](https://squareword.org/) - Wordle but words form both horizontally and vertically.
 
 [Squardle](https://fubargames.se/squardle/) - Wordle on a 5X5 grid.
@@ -151,6 +163,8 @@ I'm curating a list of all wordle like games. Feel free to play and contribute!!
 
 [Symble](https://www.symble.app/) -  When you guess, you see a sequence of 5 symbols overlaid onto an invisible version of the secret answer, without knowing which symbol means a letter is correctly placed/incorrectly placed in the answer or not in the answer.
 
+[TAF Daily](https://taf.mtclab.net/) - Decode the aviation forecast (TAF): validity window, change groups and trends.
+
 [TriviaV](https://triviav.com/) - Wordle but you have to answer 5 questions.
 
 [Tradle](https://oec.world/en/tradle/) - Guess which US State exports these products! 
@@ -158,6 +172,8 @@ I'm curating a list of all wordle like games. Feel free to play and contribute!!
 [Turdle](https://turdle.xyz/) -  a Wordle clone about guessing the correct sequence of animated frames to make a turtle jump!
 
 [Tusmo](https://www.tusmo.xyz/) - idk i dont speak bonjour.
+
+[Volcanodle](https://volcanodle.mtclab.net/) - Guess the volcano from country, type, elevation, rock type and eruption size.
 
 [Waffle](https://wafflegame.net/) - Wordle but you have to create words horizontally and vertically.
 
