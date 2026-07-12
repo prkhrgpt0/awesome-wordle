@@ -73,6 +73,8 @@ I'm curating a list of all wordle like games. Feel free to play and contribute!!
 
 [Globle](https://globle-game.com/game) - Wordle with geography-based guessing game where players are tasked with guessing the name of a country.
 
+[Guess the News](https://guessthenews.com/) - Guess the missing word in today's real news headline. New puzzle every day with hotter/colder feedback.
+
 [Gordle](https://gordle.herokuapp.com/) - Wordle with Hockey Players.
 
 [GuessTheArt](https://guessthe.art/help) - Given a picture, guess the words used to generate it.
