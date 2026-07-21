@@ -35,6 +35,8 @@ I'm curating a list of all wordle like games. Feel free to play and contribute!!
 
 [Crosswordle](https://crosswordle.vercel.app/?daily=1) - Wordle but idk, couldn't understand.
 
+[Dialactal](https://dialactal.fr/) - French daily word games hub: a SUTOM-style hidden word (6-9 letters), Semantle FR (semantic rank guessing) and a hidden Wikipedia article game.
+
 [Diffudle](http://diffudle.com/) - A Mix of Wordle, Wheel Of Fortune and Stable Diffusion. Users are given an AI generated image by the "hidden" prompt. They have to try to guess the prompt from the image.
 
 [Doggle](https://doggle.app/) - Guess breeds of mix breed dogs.
