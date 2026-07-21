@@ -3,6 +3,8 @@
 # awesome-wordle
 I'm curating a list of all wordle like games. Feel free to play and contribute!!
 
+[Wordle Cup](https://wordlecup.today/en/football/) - Wordle for sports fans, where you guess a mystery football, basketball, or NFL player in six tries using clues revealed after each guess.
+
 [Addle](https://alex.strinka.net/programs/addle/) - Wordle with Addition equations.
 
 [Actorle](https://actorle.com/) - Wordle but you have to guess Actors
@@ -174,6 +176,8 @@ I'm curating a list of all wordle like games. Feel free to play and contribute!!
 [Wordle](https://www.nytimes.com/games/wordle/index.html) - The OG
 
 [Wordle-peaks](https://vegeta897.github.io/wordle-peaks/) - Wordle but after each guess, the tiles show whether your letters occur earlier or later in the alphabet compared to the correct letters. 
+
+
 
 [Worldle](https://worldle.teuteuf.fr/) - The game will show you an outline of a country, along with some basic facts about it, and challenge you to name which one it is.
 
