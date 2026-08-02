@@ -135,6 +135,8 @@ I'm curating a list of all wordle like games. Feel free to play and contribute!!
 
 [Scholardle](https://www.scholardle.com/) - Wordle for academic words.
 
+[Scorewit](https://www.scorewit.com) - Seven daily fact-checked sports trivia games (football, F1, cricket, NFL, baseball, IPL, Premier League history).
+
 [Sedecordle](https://www.sedecordle.com/) - Wordle but you have to simultaneously guess 16 words in 21 tries.
 
 [Semantle](https://semantle.com/) - Wordle but you're given temperature of closeness to the chosen word.
