@@ -177,6 +177,7 @@ I'm curating a list of all wordle like games. Feel free to play and contribute!!
 
 [Worldle](https://worldle.teuteuf.fr/) - The game will show you an outline of a country, along with some basic facts about it, and challenge you to name which one it is.
 
+[WordleLike](https://wordlelike.com/) - Free hub with 5 daily Wordle-style games: Wordle, Word Hurdle (6-letter), Mini Crossword, Word Search and Anagram. Fresh puzzles every 24h, no sign-up.
 [Wor-Wordle-dle](https://wor-wordle-dle.web.app/#/) - Multi Layered Wordle.
 
 [Yeardle](https://histordle.com/yeardle/) - Guess the year some historic events happened
