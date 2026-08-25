@@ -65,6 +65,8 @@ I'm curating a list of all wordle like games. Feel free to play and contribute!!
 
 [Framed](https://framed.wtf/) - Wordle with movie frames 
 
+[Futbolle](https://futbolle.com) - 18 daily football puzzles: guess the mystery player, the missing XI, the grid, and more.
+
 [Geodle](https://geodle.me/) - Wordle with countries
 
 [GeoQuest](https://geoquest.wout.space/) - Find countries on a map
