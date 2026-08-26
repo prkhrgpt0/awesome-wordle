@@ -175,6 +175,8 @@ I'm curating a list of all wordle like games. Feel free to play and contribute!!
 
 [Wordle-peaks](https://vegeta897.github.io/wordle-peaks/) - Wordle but after each guess, the tiles show whether your letters occur earlier or later in the alphabet compared to the correct letters. 
 
+[World Flag Map — Daily Flags](https://worldflagmap.com/games/daily/flags/) - Guess ten national flags in the same daily quiz as every other player.
+
 [Worldle](https://worldle.teuteuf.fr/) - The game will show you an outline of a country, along with some basic facts about it, and challenge you to name which one it is.
 
 [Wor-Wordle-dle](https://wor-wordle-dle.web.app/#/) - Multi Layered Wordle.
