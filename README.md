@@ -139,6 +139,8 @@ I'm curating a list of all wordle like games. Feel free to play and contribute!!
 
 [Semantle](https://semantle.com/) - Wordle but you're given temperature of closeness to the chosen word.
 
+[SoulsDoku](https://www.soulsdoku.com) - Daily Soulsborne boss guessing games: grid, clues, silhouette, lore and arena modes across Dark Souls, Elden Ring, Bloodborne and Sekiro.
+
 [Squareword](https://squareword.org/) - Wordle but words form both horizontally and vertically.
 
 [Squardle](https://fubargames.se/squardle/) - Wordle on a 5X5 grid.
