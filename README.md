@@ -81,6 +81,8 @@ I'm curating a list of all wordle like games. Feel free to play and contribute!!
 
 [Heardle](https://www.spotify.com/heardle/?type=auto&message=no-local-storage) - Guess music from intro
 
+[Hexle](https://hexle.us) - Wordle but you guess a color by clicking swatches, with a directional hint pointing toward the answer.
+
 [JoinedWords](https://jw-daily.web.app/#/) - Guess words based on clues.
 
 [Kilorlde](https://jonesnxt.github.io/kilordle/) - Wordle but you have to guess 1000 words in 1005 tries.
