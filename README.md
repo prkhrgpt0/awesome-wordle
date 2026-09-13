@@ -91,6 +91,8 @@ I'm curating a list of all wordle like games. Feel free to play and contribute!!
 
 [Lexli](https://lexli.gr/) - Wordle in Greek
 
+[LoLdoku](https://www.loldoku.gg/) - Daily League of Legends puzzles: fill a champion grid, identify champions from attribute clues, or guess their silhouettes.
+
 [Mathler](https://www.mathler.com/) - Wordle but you have to guess Math equations.
 
 [Moviedle](https://moviedle.xyz/) -Wordle but you have to guess Movies
