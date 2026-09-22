@@ -53,6 +53,8 @@ I'm curating a list of all wordle like games. Feel free to play and contribute!!
 
 [Factle](https://factle.app/) - Wordle but you have to guess facts.
 
+[Fashionguessr](https://www.fashionguessr.com/) - Daily fashion trivia game.
+
 [Flagle](https://www.flagle.io/) - Guess the flag.
 
 [Flagle-game](https://flagle-game.com/) - Guess the flag2. 
