@@ -61,6 +61,8 @@ I'm curating a list of all wordle like games. Feel free to play and contribute!!
 
 [Footballdle](https://footballdle.com/) - Wordle but you have to guess Football players
 
+[Footballer Guesser](https://footballer-guesser.com/) - Wordle but you have to guess a Premier League player from every squad since 1992.
+
 [FourWordGrid](https://fourwordgrid.web.app/#/) - Wordle but words form both horizontally and vertically.
 
 [Framed](https://framed.wtf/) - Wordle with movie frames 
