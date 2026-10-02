@@ -159,6 +159,8 @@ I'm curating a list of all wordle like games. Feel free to play and contribute!!
 
 [Tusmo](https://www.tusmo.xyz/) - idk i dont speak bonjour.
 
+[Veridle](https://veridle.site/) - Wordle with Verity shapes from Destiny 2's Salvation's Edge raid.
+
 [Waffle](https://wafflegame.net/) - Wordle but you have to create words horizontally and vertically.
 
 [Weaver](https://wordwormdormdork.com/) - Join connection between two words.
