@@ -171,6 +171,8 @@ I'm curating a list of all wordle like games. Feel free to play and contribute!!
 
 [Wordiply](https://www.wordiply.com/) - You have five goes to get the longest word that includes the starter word.
 
+[Worthle](https://worthle.app) - Wordle meets civics: deduce disclosed net worths of politicians across US, UK & Canada.
+
 [Wordle](https://www.nytimes.com/games/wordle/index.html) - The OG
 
 [Wordle-peaks](https://vegeta897.github.io/wordle-peaks/) - Wordle but after each guess, the tiles show whether your letters occur earlier or later in the alphabet compared to the correct letters. 
