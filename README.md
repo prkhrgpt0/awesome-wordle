@@ -85,6 +85,8 @@ I'm curating a list of all wordle like games. Feel free to play and contribute!!
 
 [Kilorlde](https://jonesnxt.github.io/kilordle/) - Wordle but you have to guess 1000 words in 1005 tries.
 
+[Krillion Coach](https://krillion.space/) - Seven open-answer trivia prompts per daily or practice round, with answer review; independent 40-prompt bank.
+
 [Letterle](https://edjefferson.com/letterle/) - Wordle but you have to guess 1 letter.
 
 [Lewdle](https://www.lewdlegame.com/) - Wordle with Bad words.
