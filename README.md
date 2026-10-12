@@ -91,6 +91,8 @@ I'm curating a list of all wordle like games. Feel free to play and contribute!!
 
 [Lexli](https://lexli.gr/) - Wordle in Greek
 
+[Locabulary](https://locabulary.fun/?utm_source=awesome-wordle&utm_medium=directory&utm_campaign=directories-2026-10) - Daily geography word puzzle: chain countries letter by letter to reach the mystery country.
+
 [Mathler](https://www.mathler.com/) - Wordle but you have to guess Math equations.
 
 [Moviedle](https://moviedle.xyz/) -Wordle but you have to guess Movies
