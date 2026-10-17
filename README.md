@@ -151,6 +151,8 @@ I'm curating a list of all wordle like games. Feel free to play and contribute!!
 
 [Symble](https://www.symble.app/) -  When you guess, you see a sequence of 5 symbols overlaid onto an invisible version of the secret answer, without knowing which symbol means a letter is correctly placed/incorrectly placed in the answer or not in the answer.
 
+[Tangram Fun](https://www.tangramfun.com/) - Wordle but a tangram: one silhouette a day, fill it with the seven pieces and compare your time.
+
 [TriviaV](https://triviav.com/) - Wordle but you have to answer 5 questions.
 
 [Tradle](https://oec.world/en/tradle/) - Guess which US State exports these products! 
