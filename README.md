@@ -85,11 +85,15 @@ I'm curating a list of all wordle like games. Feel free to play and contribute!!
 
 [Kilorlde](https://jonesnxt.github.io/kilordle/) - Wordle but you have to guess 1000 words in 1005 tries.
 
+[Lacey's Web](https://lieofsight.com/web) - Daily puzzle where you spin threads so every knot in a spider's web has its number.
+
 [Letterle](https://edjefferson.com/letterle/) - Wordle but you have to guess 1 letter.
 
 [Lewdle](https://www.lewdlegame.com/) - Wordle with Bad words.
 
 [Lexli](https://lexli.gr/) - Wordle in Greek
+
+[Lie of Sight](https://lieofsight.com/case) - Daily deduction puzzle: a family says what they could see, and one of them is lying.
 
 [Mathler](https://www.mathler.com/) - Wordle but you have to guess Math equations.
 
@@ -132,6 +136,8 @@ I'm curating a list of all wordle like games. Feel free to play and contribute!!
 [Reversle](https://reversle.net/) - Wordle but the answer is already given.
 
 [Revertle](https://www.puppetsquid.com/revertle/) - Wordle but you're given a word and you've to make words without the given word's letters.
+
+[Rex's Fetch](https://lieofsight.com/fetch) - Daily path puzzle: lead Rex the dog through every square of the yard to his ball without crossing his trail.
 
 [Scholardle](https://www.scholardle.com/) - Wordle for academic words.
 
