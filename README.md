@@ -111,6 +111,8 @@ I'm curating a list of all wordle like games. Feel free to play and contribute!!
 
 [Pimantle](https://semantle.pimanrul.es/) - Semantle/Cemantle but with a 2D map of word closeness
 
+[Plain Game](https://plaingame.fun/) - Daily estimation game: name something close to a target number or estimate a fact in seven guesses.
+
 [Poetle](https://poeltl.dunk.town/) - Wordle but you have to guess NBA players.
 
 [Polydle](https://polydle.github.io/?) - Wordle with customizable no of words.
