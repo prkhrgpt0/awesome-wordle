@@ -57,6 +57,8 @@ I'm curating a list of all wordle like games. Feel free to play and contribute!!
 
 [Flagle-game](https://flagle-game.com/) - Guess the flag2. 
 
+[Flag a Day](https://flagaday.com/) - Guess the flag of the day in 6 tries with distance and direction hints; also daily country shapes and flag quizzes.
+
 [Foodle](https://food-le.co/) - Wordle for foods.
 
 [Footballdle](https://footballdle.com/) - Wordle but you have to guess Football players
