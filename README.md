@@ -45,6 +45,8 @@ I'm curating a list of all wordle like games. Feel free to play and contribute!!
 
 [Duotrigordle](https://duotrigordle.com/#) - Wordle but you have to guess 32 words in 37 tries.
 
+[Dusty's Rounds](https://lieofsight.com/dusty) - Daily puzzle: give a robot vacuum a short row of moves that it repeats until every crumb is gone.
+
 [Equatle](http://www.equatle.com/) - Wordle but you have to guess math equations.
 
 [EvilWordle](https://swag.github.io/evil-wordle/) - Wordle but system works against you.
