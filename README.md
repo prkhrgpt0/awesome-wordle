@@ -15,6 +15,8 @@ I'm curating a list of all wordle like games. Feel free to play and contribute!!
 
 [AntiWordle](https://www.antiwordle.com/) - Wordle but system throws difficulties on you.
 
+[AnyKrillion](https://anykrillion.com/) - Trivia guessing game where rare answers score more points, with Daily Dive and Krillion Unlimited.
+
 [ArWordle](https://arwordle.netlify.app/) - Arabic Wordle
 
 [Bardle](https://shakespearegeek.github.io/bardle/) - Wordle with Shakespeare Quotes.
@@ -112,6 +114,8 @@ I'm curating a list of all wordle like games. Feel free to play and contribute!!
 [Pimantle](https://semantle.pimanrul.es/) - Semantle/Cemantle but with a 2D map of word closeness
 
 [Poetle](https://poeltl.dunk.town/) - Wordle but you have to guess NBA players.
+
+[Poople Unlimited](https://anykrillion.com/poople-unlimited/) - 4-letter word ladder game with daily challenges and unlimited practice.
 
 [Polydle](https://polydle.github.io/?) - Wordle with customizable no of words.
 
