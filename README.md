@@ -83,6 +83,8 @@ I'm curating a list of all wordle like games. Feel free to play and contribute!!
 
 [JoinedWords](https://jw-daily.web.app/#/) - Guess words based on clues.
 
+[Kabloom Daily](https://kabloomdaily.com/) - A fast-paced daily volcano trivia puzzle where players scale 7 escalating categories under 25 seconds with zero duplicate answers.
+
 [Kilorlde](https://jonesnxt.github.io/kilordle/) - Wordle but you have to guess 1000 words in 1005 tries.
 
 [Letterle](https://edjefferson.com/letterle/) - Wordle but you have to guess 1 letter.
