@@ -93,6 +93,8 @@ I'm curating a list of all wordle like games. Feel free to play and contribute!!
 
 [Mathler](https://www.mathler.com/) - Wordle but you have to guess Math equations.
 
+[Minecraft Krillion](https://minecraftkrillion.net/) - Daily Minecraft trivia where less common correct answers take you farther toward bedrock.
+
 [Moviedle](https://moviedle.xyz/) -Wordle but you have to guess Movies
 
 [Movlie](https://movlie.org/) - Guess movie from screenshot
